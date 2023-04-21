@@ -1,0 +1,100 @@
+
+
+body {
+  background-color: #5fc1dc;
+  
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right:1cm;
+  
+}
+
+.quotes{
+  background: url(https://s-media-cache-ak0.pinimg.com/originals/74/8c/28/748c28cd15f309f6ae3895f6828861f9.jpg);
+  background-size: cover;
+  width: 450px;
+  height: 320px;
+  border-radius: 10px;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+}
+.quotes h2{
+  font-size: 1em;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin-top: 40px;
+  
+  
+ 
+
+}.quotes small{
+  font-size:1em ;
+  margin-left: 190px;
+  margin-top: 11px;
+  font-family: 'Dancing Script', cursive;
+ 
+  
+    }
+.btn{
+  display: block;
+  border: 2px solid #008CBA;
+  background: transparent;
+  padding: 2px 12px;
+  padding-top: 2px;
+  color: #da2d2d;
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: #c74646;
+  transition: background 0.001s,color 1s;
+  margin-top: -1cm;
+  margin-top: auto;
+  
+  ;
+  
+}.btn:hover{
+  background: #008CBA;
+  color:#c74646;
+  box-shadow: 0 9px 16px rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  
+
+}
+.header{
+
+  padding-bottom: 20px ;
+  font-size:1n
+  em ;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.footer{
+ text-align: center;
+ font-size:1em ;
+font-family: 'Times New Roman', Times, serif;padding-left: 9cm;
+colre:#fff;
+
+}
+.se{
+  padding-left: 200px;
+  margin-top: 60px;
+  align-items: center;
+  margin-top: auto;
+  padding-top: 0cm;
+
+}
+.twiter{
+  padding-top: 11px;
+  padding-right: 490px;
+ 
+  }
+  .insta{
+    
+    padding-right: 490px;
+    padding-top: 1px;
+
+  }
